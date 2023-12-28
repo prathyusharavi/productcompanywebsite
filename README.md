@@ -198,7 +198,7 @@ Publish the website in the given URL.
 
 </body>
 <footer style="background-color:black;margin-top: 143; border: none;">
-    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by NAVYA 2023 </P>
+    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by Y.PRATHYUSHA 2023 </P>
 </footer>
 </html>                
 
