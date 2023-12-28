@@ -730,14 +730,7 @@ Publish the website in the given URL.
 ![WhatsApp Image 2023-12-28 at 21 13 42_7974c4db](https://github.com/prathyusharavi/productcompanywebsite/assets/147474424/aebf04a1-e7d3-4921-bb54-97cf285cd1ad)
 ![WhatsApp Image 2023-12-28 at 21 13 43_1b14cfa8](https://github.com/prathyusharavi/productcompanywebsite/assets/147474424/02955192-0a0c-438e-810c-e3bbc6829c67)
 ![WhatsApp Image 2023-12-28 at 21 13 45_4c33f19b](https://github.com/prathyusharavi/productcompanywebsite/assets/147474424/f7eac77d-fc5c-43f4-8a2d-e48698206ab2)
-
-
-
-
-
-
-
-
+![WhatsApp Image 2023-12-28 at 21 13 59_1ac3a661](https://github.com/prathyusharavi/productcompanywebsite/assets/147474424/3a3cbe6a-4e4f-4bcd-8139-b5e7be665881)
 
 
 ## RESULT:
