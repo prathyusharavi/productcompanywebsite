@@ -409,7 +409,7 @@ Publish the website in the given URL.
 </DIV>
 </body>
 <footer style="background-color:red;margin-top: 143; border: none;">
-    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by NAVYA 2023 </P>
+    <P style="color:#ffffff; ;"align="center">Designed and Devoloped by prathyusha 2023</P>
 </footer>
 </html>
 
